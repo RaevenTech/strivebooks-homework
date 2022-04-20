@@ -1,6 +1,6 @@
 
 import { Row, Col, Card } from "react-bootstrap";
-import collection from "../data/books.json";
+import collection from "../books.json";
 
 const MyLatestRelease = () => (
     

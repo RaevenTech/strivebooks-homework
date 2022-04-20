@@ -4,7 +4,7 @@ import { Jumbotron, Container } from "react-bootstrap";
 const MyJumbotron = () => (
     <>
     <Jumbotron fluid>
-  <Container>
+  <Container color>
     <h1>Welcome </h1>
     <p>
       Welcom to the wonderful world of words
